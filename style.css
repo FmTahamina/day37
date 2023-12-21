@@ -7,6 +7,7 @@
 .img-l{
  height: 407px;
  width: 407px;
+ 
 }
 
 .dtls{
@@ -34,4 +35,35 @@
 }
 .crd-1{
     border:none;
+}
+
+/* Footer section */
+
+
+.last{
+    height: 417px;
+    width: 1171px;
+}
+.ftr{
+  padding-top: 150px;
+
+
+}
+.im-d{
+margin-top: 152px;
+}
+.im-d img{
+
+    height: 82px;
+    width: 78px;
+   
+}
+.xm{
+    padding-top:500px;
+    padding-left: 120px;
+}
+.xm img{
+    height: 355px;
+    width: 599px;
+    
 }
